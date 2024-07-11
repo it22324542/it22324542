@@ -1,7 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm Yasas Rajika</h1>
-<h3 align="center">A passionate IT Student</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Developers..&hearts;++;A+passionate+IT+Student,;Undergraduate+at+Sliit,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
