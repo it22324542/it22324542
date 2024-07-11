@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br>
+
 - 🌱 I’m currently learning **MERN**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
