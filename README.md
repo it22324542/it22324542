@@ -14,11 +14,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Typescript**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-
-- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **yasasrajika@gmail.com**
 
